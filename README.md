@@ -2,13 +2,13 @@
 
 Game of Memories is a Game of Life Simulation running inside the memory of an emulated Instructor 50 computer, co-created with Stefan Höltgen at the Humboldt University of Berlin in 2014.
 
-<img src = "/Pictures/Emulator.jpg?raw=true" width = "400" title = "The Winarcadia Emulator of the Instructor 50" alt = "A windows in Windows emulating the Instructor 50, showing in huge red letters the opcodes 03 12 A5 in an 7 segment LED-screen in red, 8 red LED below, and a huge amount of smaller buttons and folders surrounding that."/>
-
-_The WinInstructor emulated in WindArcardia_
-
 <img src = "/Pictures/Instructor 50 von Signetics.JPG?raw=true" width = "400" title = "The Instructor 50" alt = "A retro-computer consisting of a black case, two key pads with blue and red keys, a line of 8 DIP-switches and 8 LEDs, and a 7 segment LED-screen in red showcasing “HELLO”."/>
 
 _The Instructor 50_
+
+<img src = "/Pictures/Emulator.jpg?raw=true" width = "400" title = "The Winarcadia Emulator of the Instructor 50" alt = "A windows in Windows emulating the Instructor 50, showing in huge red letters the opcodes 03 12 A5 in an 7 segment LED-screen in red, 8 red LED below, and a huge amount of smaller buttons and folders surrounding that."/>
+
+_The WinInstructor emulated in WinArcardia_
 
 <img src = "/Pictures/Emulator.jpg?raw=true" width = "600" title = "The Winarcadia Emulator of the Instructor 50" alt = "A windows in Windows emulating the Instructor 50, showing in huge red letters the opcodes 03 12 A5 in an 7 segment LED-screen in red, 8 red LED below, and a huge amount of smaller buttons and folders surrounding that."/>
 
