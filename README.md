@@ -29,4 +29,4 @@ After more than a decade, I do not know if WinArcadia still works same way as we
 
 ## References
 
-[[1]](#_ftnref1) The WinArcadia Software was created by . It is available under: [http://amigan.1emu.net/releases/#amiarcadia](http://amigan.1emu.net/releases/#amiarcadia) (last accessed: 2025-08-23).
+[[1]](#_ftnref1) The WinArcadia Software is available under: [http://amigan.1emu.net/releases/#amiarcadia](http://amigan.1emu.net/releases/#amiarcadia) (last accessed: 2025-08-23).
