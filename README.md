@@ -2,15 +2,15 @@
 
 Game of Memories is a Game of Life Simulation running inside the memory of an emulated Instructor 50 computer, co-created with Stefan Höltgen at the Humboldt University of Berlin in 2014.
 
-<img src = "/Pictures/Instructor 50 von Signetics.JPG?raw=true" width = "600" title = "The Instructor 50." alt = "A retro-computer consisting of a black case, two key pads with blue and red keys, a line of 8 DIP-switches and 8 LEDs, and a 7 segment LED-screen in red showcasing “HELLO”."/>
+<img src = "/Pictures/Instructor 50 von Signetics.JPG?raw=true" width = "500" title = "The Instructor 50." alt = "A retro-computer consisting of a black case, two key pads with blue and red keys, a line of 8 DIP-switches and 8 LEDs, and a 7 segment LED-screen in red showcasing “HELLO”."/>
 
 _The Instructor 50._
 
-<img src = "/Pictures/Emulator.jpg?raw=true" width = "600" title = "The WinInstructor emulated in WinArcardia." alt = "A window in Windows emulating the Instructor 50, showing in huge red letters the opcodes 03 12 A5 in an 7 segment LED-screen in red, 8 red LED below, and a huge amount of smaller buttons and folders surrounding that."/>
+<img src = "/Pictures/Emulator.jpg?raw=true" width = "500" title = "The WinInstructor emulated in WinArcardia." alt = "A window in Windows emulating the Instructor 50, showing in huge red letters the opcodes 03 12 A5 in an 7 segment LED-screen in red, 8 red LED below, and a huge amount of smaller buttons and folders surrounding that."/>
 
 _The WinInstructor emulated in WinArcardia._
 
-<img src = "/Pictures/GRAFIK_GoM_Speicherfläche mit Okatgon_2.JPG?raw=true" width = "600" title = "A peek into the memory bank of the emulated machine where the Game of Life has its playing field, here showing an octagon." alt = "A 16 x 16 field of squares coloured in light green. Above the upper column an index is visible froom 0 to F. On the left side the rows are indexed from $0E0x: $ to $0EFx: $. Some squares contain little black circels, together forming an octagon."/>
+<img src = "/Pictures/GRAFIK_GoM_Speicherfläche mit Okatgon_2.JPG?raw=true" width = "500" title = "A peek into the memory bank of the emulated machine where the Game of Life has its playing field, here showing an octagon." alt = "A 16 x 16 field of squares coloured in light green. Above the upper column an index is visible froom 0 to F. On the left side the rows are indexed from $0E0x: $ to $0EFx: $. Some squares contain little black circels, together forming an octagon."/>
 
 _A peek into the memory bank of the emulated machine where the Game of Life has its playing field, here showing an octagon._
 
