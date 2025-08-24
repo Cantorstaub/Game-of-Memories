@@ -22,4 +22,4 @@ The game was written for the Winarcadia Emulator [http://amigan.1emu.net/release
 
 <img src = "/Pictures/Hex vs Zeichen.jpg?raw=true" width = "675" title = "The Instructor 50." alt = "A retro-computer consisting of a black case, two key pads with blue and red keys, a line of 8 DIP-switches and 8 LEDs, and a 7 segment LED-screen in red showcasing “HELLO”."/>
 
-<img src = "/Pictures/Schichten.jpg?raw=true" width = "1000" title = "The Instructor 50." alt = "A retro-computer consisting of a black case, two key pads with blue and red keys, a line of 8 DIP-switches and 8 LEDs, and a 7 segment LED-screen in red showcasing “HELLO”."/>
+<img src = "/Pictures/Schichten-korrekt.jpg?raw=true" width = "1000" title = "The Instructor 50." alt = "A retro-computer consisting of a black case, two key pads with blue and red keys, a line of 8 DIP-switches and 8 LEDs, and a 7 segment LED-screen in red showcasing “HELLO”."/>
