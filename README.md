@@ -16,7 +16,7 @@ _The WinInstructor emulated in WinArcardia._
 
 _The emulator provides us with a graphical representation of the memory bank of the emulated machine where the Game of Memories is playing, here showing an octagon._
 
-As only a 16 x 16 part of the memory of the emulated _Instructor 50_ at a time could be made visible in WinArcadia, we were confined to a rather small playing field for the Game of Memories. It was possible to create most of the common elements from John Horton Conway’s Game of Life like blinkers, beehives, octagons (see above), or gliders (see below). Still, due to the restricted size of the playing field, the cells within our Game of Memories tended to die out or move into repetitive patterns quite fast. The realization of structures of higher order and interest, like glider cannons or a functioning Turing machine, was of course out of the question.
+As only a 16 x 16 part of the memory of the emulated _Instructor 50_ at a time could be made visible in WinArcadia, we were confined to a rather small playing field for the Game of Memories. It was possible to create most of the common elements from John Horton Conway’s Game of Life like blinkers, beehives, octagons (see above), or gliders (see below). Still, due to the restricted size of the playing field, the cells within our Game of Memories tended to die out or move into repetitive patterns quite fast.
 
 <img src = "/Pictures/Gleiter.jpg?raw=true" width = "475" title = "Three iterations of a glider moving across the playing field." alt = "A retro-computer consisting of a black case, two key pads with blue and red keys, a line of 8 DIP-switches and 8 LEDs, and a 7 segment LED-screen in red showcasing “HELLO”."/>
 
