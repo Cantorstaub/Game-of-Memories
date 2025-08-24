@@ -2,3 +2,4 @@
 
 Game of Memories is a Game of Life Simulation running inside the memory of an Instructor 50 computer, co-created with Stefan Höltgen at the Humboldt University of Berlin in 2014. The game was written for the Winarcadia Emulator. Due to the Instructor 50 of the Signal Laboratory behaving differently than the emulated version within Winarcadia (being most certainly a problem of our hardware and not of the emulator), the program never run successfully on the Instructor 50.
 
+<img src = "/Pictures/thn-EXP-LIDAR-14-LIDAR-Carrier-standing.jpeg?raw=true" width = "600" title = "The Lidar on Wheels." alt = "A DIY robot made of red and green metal parts with electronic devices on top."/>
