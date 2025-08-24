@@ -1,6 +1,6 @@
 # Game-of-Memories
 
-Game of Memories is a Game of Life simulation running inside the memory of an emulated _Instructor 50_ computer. It was co-created with Stefan Höltgen in the [Signallabor](https://www.musikundmedien.hu-berlin.de/de/medienwissenschaft/medientheorien/signallabor) at the Humboldt University of Berlin in 2014.
+Game of Memories is a Game of Life cellular automaton inside the memory of an emulated _Instructor 50_ computer. It was co-created with Stefan Höltgen in the [Signallabor](https://www.musikundmedien.hu-berlin.de/de/medienwissenschaft/medientheorien/signallabor) at the Humboldt University of Berlin in 2014.
 
 As the _Instructor 50_ only provides a 7-segment display to show addresses and opcodes and a line of eight red LEDs, there would be no direct way to actually see the Game of Memories when run on the original hardware. The emulation of this machine in WinArcadia[[1]](#_ftn1), on the other hand, provided the possibility to graphically represent the memory of the emulated machine, rendering the Game of Memories visible.
 
