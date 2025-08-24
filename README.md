@@ -20,9 +20,9 @@ As only a 16 x 16 part of the memory of the emulated _Instructor 50_ at a time c
 
 __Signetics erwähnen__
 
-<img src = "/Pictures/Gleiter.jpg?raw=true" width = "475" title = "Three iterations of a glider moving over the playing field." alt = "A retro-computer consisting of a black case, two key pads with blue and red keys, a line of 8 DIP-switches and 8 LEDs, and a 7 segment LED-screen in red showcasing “HELLO”."/>
+<img src = "/Pictures/Gleiter.jpg?raw=true" width = "475" title = "Three iterations of a glider moving across the playing field." alt = "A retro-computer consisting of a black case, two key pads with blue and red keys, a line of 8 DIP-switches and 8 LEDs, and a 7 segment LED-screen in red showcasing “HELLO”."/>
 
-_Three iterations of a glider moving over the playing field._
+_Three iterations of a glider moving across the playing field._
 
 <img src = "/Pictures/Hex vs Zeichen.jpg?raw=true" width = "675" title = "WinArcadia made it possible to switch between two different modes for the visualisation of the content of the memory. This enabled us to use the hexadecimal values 17 and 15 to create the impression of empty and filled cells, as it is standard for most cellular automata." alt = "A retro-computer consisting of a black case, two key pads with blue and red keys, a line of 8 DIP-switches and 8 LEDs, and a 7 segment LED-screen in red showcasing “HELLO”."/>
 
