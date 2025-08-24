@@ -5,3 +5,5 @@ Game of Memories is a Game of Life Simulation running inside the memory of an In
 <img src = "/Pictures/Emulator.jpg?raw=true" width = "600" title = "The Winarcadia Emulator of the Instructor 50" alt = "A windows in Windows emulating the Instructor 50, showing in huge red letters the opcodes 03 12 A5, an 8 segment LED in red below and a huge amount of smaller buttons and folders around that."/>
 
 _The WinInstructor emulated in Windarcardia_
+
+[http://amigan.1emu.net/releases/#amiarcadia](http://amigan.1emu.net/releases/#amiarcadia) (last accessed: 2025-08-23)
