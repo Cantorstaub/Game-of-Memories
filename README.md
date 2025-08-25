@@ -2,7 +2,7 @@
 
 _Game of Memories_ is a Game of Life cellular automaton inside the memory of an emulated _Instructor 50_ computer. It was co-created with Stefan Höltgen in the [Signallabor](https://www.musikundmedien.hu-berlin.de/de/medienwissenschaft/medientheorien/signallabor) at the Humboldt University of Berlin in 2014.
 
-The _Instructor 50_ from Signetics was designed in 1978 for didactic purposes around the Signetics 2650 microprocessor. The computer provides no monitor or visual output in the sense we are used to. Containing only a 7-segment display to show addresses and opcodes and a line of eight red LEDs, there is no direct way to actually _see_ the _Game of Memories_ when run on the original hardware. The emulation of this machine in WinArcadia[[1]](#_ftn1), on the other hand, provided the possibility to graphically represent the memory of the emulated machine, rendering the Game of Memories and the inner workings of the computer on the most elemental level of the machine visible.
+The _Instructor 50_ from Signetics was designed in 1978 for didactic purposes around the Signetics 2650 microprocessor. The computer provides no monitor or visual output in the sense we are used to. Containing only a 7-segment display to show addresses and opcodes and a line of eight red LEDs, there is no direct way to actually _see_ the _Game of Memories_ when run on the original hardware. The emulation of this machine in WinArcadia[[1]](#_ftn1), on the other hand, provided the possibility to graphically represent the memory of the emulated machine, rendering the _Game of Memories_ and the inner workings of the computer visible.
 
 <img src = "/Pictures/Instructor 50 von Signetics.JPG?raw=true" width = "500" title = "The Instructor 50." alt = "A retro-computer consisting of a black case, two key pads with blue and red keys, a line of 8 DIP-switches and 8 LEDs, and a 7-segment display in red showcasing “HELLO”."/>
 
@@ -16,14 +16,15 @@ _Figure 2. The WinInstructor emulated in WinArcardia._
 
 _Figure 3. The emulator provided a graphical representation of the memory bank of the emulated machine where the Game of Memories is playing, here showing an octagon._
 
-In the emulator WinArcadia only small parts of the memory with the size 16 x 16 byte could be made visible at a time. Therefore, we were confined to a rather small playing field for the _Game of Memories_ of 16 x 16 cells. It was possible to create most of the common elements from John Horton Conway’s Game of Life like blinkers, beehives, octagons (see figure 3), or gliders (see figure 4). Still, due to the restricted size of the playing field, the cells within our Game of Memories died out or got caught up in repetitive patterns after a couple of generations.
+Only a small segement of the memory sized 16 x 16 byte could be made visible at a time in WinArcadia . Therefore, we were confined to a rather small playing field for the _Game of Memories_ of 16 x 16 cells. It was possible to create most of the common elements from John Horton Conway’s Game of Life like blinkers, beehives, octagons (see figure 3), or gliders (see figure 4). Still, due to the restricted size, the cells within our _Game of Memories_ died out or got caught up in repetitive patterns after a a rather small amount of generations.
 
 <img src = "/Pictures/Gleiter.jpg?raw=true" width = "475" title = "Three iterations of a glider moving across the playing field." alt = "Three boxes consisting of 4 x 4 green squares. Between the boxes are two arrows pointing from left to right. Within five squares of each box are little circles. The circles have moved to different squares from one box to the other."/>
 
 _Figure 4. Three iterations of a glider moving across the playing field._
 
-The _Game of Memories_ was designed to study the inner workings of a retrocomputer with much less complex proccesses compared to modern computers. Using the WinArcadia emulator provided the possibility to take up on mediatheoretical thoughts and conclusions in a hands-on fashion by peeking into the emulated machine, in our case, into its memory. 
-Working with retrocomputers in such a manour provided insights into the elemtary functionalities of computers down to the single bit and an understanding of the connections between the different strata within the processes of computers and how _real_ states – to use the methodological trias of Friedrich A. Kittler – are related to symbolic signs in the machine, opening up avenues to rethink the mediatheoretical stance on programming and processing of digital machines as forms of writing.
+## Purpose of the Program
+
+The _Game of Memories_ was designed to study the inner workings of a retrocomputer with much less complex proccesses compared to modern computers. Using the WinArcadia emulator provided the possibility to take up on mediatheoretical thoughts and conclusions in a hands-on fashion by peeking into the emulated machine, in our case, into its memory. Grasping the elementary functionalities of the computer down to the single bit facilitated an understanding of the connections between the different strata within the processes of computers and how _real_ states – to use the methodological trias of Friedrich A. Kittler – are related to symbolic signs within the machine, opening up avenues to rethink the mediatheoretical stance on programming and processing of digital machines as forms of _writing_.
 
 <img src = "/Pictures/Hex vs Zeichen.jpg?raw=true" width = "675" title = "WinArcadia made it possible to switch between two different modes for the visualisation of the content of the memory. This enabled us to use the hexadecimal values 17 and 15 to create the impression of empty and filled cells, as it is standard for most cellular automata." alt = "Two boxes, each consisting of 4 x 4 gray squares. Each box has a drop down menue on its right with two options. For the left box the option “Zeichen” is checked. For the right box, the option “Hexadezimal” is checked. 12 squares of the left box are empty, only 4 squares contain little circles. 12 squares of the right box contain the vale 17, the same 4 squares containing the little circles now contain the value 15. Two arrows are between the boxes, on to the right, one to the left."/>
 
@@ -35,7 +36,7 @@ _Figure 6. The different strata of processes within the emulated Instructor 50, 
 
 ## Programmer’s notes
 
-After more than a decade, I do not know if WinArcadia still works same way as we did when we were writing the Game of Memories. asm better than COS, to not be dependend on the version of WinArcadia.
+After more than a decade, I do not know if WinArcadia still works the same way as it did. asm better than COS, to not be dependend on the version of WinArcadia.
 
 ## References
 
