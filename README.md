@@ -2,7 +2,7 @@
 
 _Game of Memories_ is a Game of Life cellular automaton inside the memory of an emulated _Instructor 50_ computer. It was co-created with Stefan Höltgen in the [Signallabor](https://www.musikundmedien.hu-berlin.de/de/medienwissenschaft/medientheorien/signallabor) at the Humboldt University of Berlin in 2014.
 
-The _Instructor 50_ has no monitor or visual output as we are used to. Containing only a 7-segment display to show addresses and opcodes and a line of eight red LEDs, there is no direct way to actually _see_ the _Game of Memories_ when run on the original hardware. The emulation of this machine in WinArcadia[[1]](#_ftn1), on the other hand, provided the possibility to graphically represent the memory of the emulated machine, rendering the _Game of Memories_ and the inner workings of the computer visible.
+The _Instructor 50_ has no monitor or visual output as we are used to. Containing only a 7-segment display to show addresses and opcodes and a line of eight red LEDs, there is no direct way to actually _see_ the _Game of Memories_ when run on the original hardware. The emulation of this computer in WinArcadia[[1]](#_ftn1), on the other hand, provided the possibility to graphically represent the memory of the emulated machine, rendering the _Game of Memories_ and the inner workings of the computer visible.
 
 <img src = "/Pictures/Instructor 50 von Signetics.JPG?raw=true" width = "500" title = "The Instructor 50 from Signetics, designed in 1978 for didactic purposes around the Signetics 2650 microprocessor." alt = "A retro-computer consisting of a black case, two key pads with blue and red keys, a line of 8 DIP-switches and 8 LEDs, and a 7-segment display in red showcasing “HELLO”."/>
 
