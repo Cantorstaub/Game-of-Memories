@@ -6,7 +6,7 @@ The _Instructor 50_ from Signetics was designed in 1978 for didactic purposes, u
 
 <img src = "/Pictures/Instructor 50 von Signetics.JPG?raw=true" width = "500" title = "The Instructor 50." alt = "A retro-computer consisting of a black case, two key pads with blue and red keys, a line of 8 DIP-switches and 8 LEDs, and a 7-segment display in red showcasing “HELLO”."/>
 
-_1: The Instructor 50._
+_(1) The Instructor 50._
 
 <img src = "/Pictures/Emulator.jpg?raw=true" width = "500" title = "The WinInstructor emulated in WinArcardia." alt = "A window in Windows emulating the Instructor 50, showing in huge red letters the opcodes 03 12 A5 in an 7-segment display in red, 8 red LED below, and a huge amount of smaller buttons and folders surrounding that."/>
 
