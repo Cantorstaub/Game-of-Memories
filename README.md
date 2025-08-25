@@ -14,7 +14,7 @@ _Figure 2. The WinInstructor emulation of the Instructor 50 in WinArcadia._
 
 <img src = "/Pictures/GRAFIK_GoM_Speicherfläche mit Okatgon_2.JPG?raw=true" width = "500" title = "The emulator provided a graphical representation of the memory bank of the emulated machine where the Game of Memories is playing, here showing an octagon." alt = "A 16 x 16 field of squares coloured in light green. Above the upper column, an index is visible from 0 to F. On the left side, the rows are indexed from $0E0x: $ to $0EFx: $. Some squares contain little black circles, forming an octagon."/>
 
-_Figure 3. The graphical representation of the memory bank of the emulated machine where the Game of Memories is playing, here showing an octagon._
+_Figure 3. The graphical representation of the memory bank of the emulated machine the Game of Memories is playing in, here showing an octagon._
 
 Only a small segment of the memory, sized 16 x 16 bytes, could be made visible at a time in WinArcadia. Therefore, we were confined to a relatively small playing field of 16 x 16 cells for the _Game of Memories_. It was possible to create most of the common elements from John Horton Conway’s Game of Life, like blinkers, beehives, octagons (see figure 3), or gliders (see figure 4). Still, due to the restricted size, the cells within our _Game of Memories_ died out or got caught up in repetitive patterns after a rather small number of generations.
 
