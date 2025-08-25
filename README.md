@@ -24,7 +24,7 @@ _Figure 4. Three iterations of a glider moving across the playing field._
 
 ## Purpose of the Program
 
-The _Game of Memories_ was designed to study the inner workings of a retrocomputer with much less complex proccesses compared to modern computers. Using the WinArcadia emulator provided the possibility to take up on mediatheoretical thoughts and conclusions in a hands-on fashion by peeking into the emulated machine, in our case, into its memory. Grasping the elementary functionalities of the computer down to the single bit facilitated an understanding of the connections between the different strata within the processes of computers and how _real_ states – to use the methodological trias of Friedrich A. Kittler – are related to symbolic signs within the machine, opening up avenues to rethink the mediatheoretical stance on programming and processing of digital machines as forms of _writing_.
+The _Game of Memories_ was designed to study the inner workings of a retrocomputer with much less complex proccesses compared to modern computers. Using the WinArcadia emulator provided the possibility to take up on mediatheoretical thoughts and conclusions in a hands-on fashion by peeking into the emulated machine, in our case, into its memory. Working in Assembler on an emulated machine let us scrutinize the elementary functionalities of the computer down to the single bit. In particular, it facilitated an understanding of the connections between the different strata within the processes of computers and how _real_ states – to use the methodological trias of Friedrich A. Kittler – are related to symbolic signs within the machine, opening up avenues to rethink the mediatheoretical stance on programming and processing of digital machines as forms of _writing_.
 
 <img src = "/Pictures/Hex vs Zeichen.jpg?raw=true" width = "675" title = "WinArcadia made it possible to switch between two different modes for the visualisation of the content of the memory. This enabled us to use the hexadecimal values 17 and 15 to create the impression of empty and filled cells, as it is standard for most cellular automata." alt = "Two boxes, each consisting of 4 x 4 gray squares. Each box has a drop down menue on its right with two options. For the left box the option “Zeichen” is checked. For the right box, the option “Hexadezimal” is checked. 12 squares of the left box are empty, only 4 squares contain little circles. 12 squares of the right box contain the vale 17, the same 4 squares containing the little circles now contain the value 15. Two arrows are between the boxes, on to the right, one to the left."/>
 
@@ -36,7 +36,9 @@ _Figure 6. The different strata of processes within the emulated Instructor 50, 
 
 ## Programmer’s notes
 
-After more than a decade, I do not know if WinArcadia still works the same way as it did. asm better than COS, to not be dependend on the version of WinArcadia.
+After more than a decade, I do not know if WinArcadia still works the same way as it did. In 2014, we encountered problems with the emulator: when using a COS-file, it depended on the version of WinArcadia, if the program would run. This problem might have been entirely due to our lack of experience with the software. Still, if you are going to run the program, it might be adivsable to use the asm file, which can be loaded directly via the CLI in higher versions of WinArcadia.
+
+When the program is loaded succesfully in WinArcadia, the playing field is not yet visible. Under the tab “Werkzeuge”, activate the “Speichereditor.” The playing field is inside memory bank 0E00-0EFF. This has to be selected in the scrolldown menu at the top left.
 
 ## References
 
