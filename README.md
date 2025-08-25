@@ -38,7 +38,7 @@ _Figure 6. The different strata of processes within the emulated Instructor 50, 
 
 After more than a decade, I do not know if WinArcadia still works the same way as it did. In 2014, we encountered problems with the emulator: when using a COS-file, it depended on the version of WinArcadia, whether the program would run. This problem might have been entirely due to our lack of experience with the software. Still, if you are going to run the program, it might be advisable to start with the asm-file, which can be loaded directly in higher versions of WinArcadia via the CLI.
 
-When the program is loaded successfully in WinArcadia, the playing field is not yet visible. Under the tab “Werkzeuge”, activate the “Speichereditor.” The playing field is inside memory bank 0E00-0EFF. This bank has to be selected in the scroll-down menu at the top left.
+When the program is loaded successfully in WinArcadia, the playing field is not yet visible. Under the tab “Werkzeuge”, activate the “Speichereditor.” The playing field is inside memory bank 0E00-0EFF. This bank has to be selected in the scroll-down menu at the top left. We were using WinArcadia version 22.74.
 
 ## References
 
