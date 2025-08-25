@@ -29,7 +29,7 @@ Working with retrocomputers in such a manour provided insights into the elemtary
 
 _Figure 5. WinArcadia made it possible to switch between two different modes for the visualisation of the content of the memory. This enabled us to use the hexadecimal values 17 and 15 to create the impression of empty and filled cells, as it is standard for most cellular automata._
 
-<img src = "/Pictures/Schichten-korrekt.jpg?raw=true" width = "1000" title = "The different strata of processes within the emulated Instructor 50." alt = ""/>
+<img src = "/Pictures/Schichten-korrekt.jpg?raw=true" width = "1000" title = "The different strata of processes within the emulated Instructor 50." alt = "Two grey areas shaped like hourglasses contain different levels with graphics and text. The lowest level consists of an irregular jigisaw line. Above, the left hourglass contains the digits 10100101, the right the digits 00010000. The left hourglass then contains A5, the right 10. At the highest level the left hourglass shows SUBI,r1, the right one shows 10. On the left this leves are indexed from bottom to top with Spannung, Bits, Opcodes (hexadezimal), and Mnemonics."/>
 
 _Figure 6. The different strata of processes within the emulated Instructor 50, ranging from the level of measured voltage up to opcodes for the human user. The strata are isomorph to another and can be read as representing the connection between the real and the symbolic within the machine._
 
