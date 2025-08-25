@@ -2,11 +2,11 @@
 
 _Game of Memories_ is a Game of Life cellular automaton inside the memory of an emulated _Instructor 50_ computer. It was co-created with Stefan Höltgen in the [Signallabor](https://www.musikundmedien.hu-berlin.de/de/medienwissenschaft/medientheorien/signallabor) at the Humboldt University of Berlin in 2014.
 
-The _Instructor 50_ from Signetics was designed in 1978 for didactic purposes around the Signetics 2650 microprocessor. The computer provides no monitor or visual output in the sense we are used to. Containing only a 7-segment display to show addresses and opcodes and a line of eight red LEDs, there is no direct way to actually _see_ the _Game of Memories_ when run on the original hardware. The emulation of this machine in WinArcadia[[1]](#_ftn1), on the other hand, provided the possibility to graphically represent the memory of the emulated machine, rendering the _Game of Memories_ and the inner workings of the computer visible.
+The _Instructor 50_ provided no monitor or visual output we are used to. Containing only a 7-segment display to show addresses and opcodes and a line of eight red LEDs, there is no direct way to actually _see_ the _Game of Memories_ when run on the original hardware. The emulation of this machine in WinArcadia[[1]](#_ftn1), on the other hand, provided the possibility to graphically represent the memory of the emulated machine, rendering the _Game of Memories_ and the inner workings of the computer visible.
 
-<img src = "/Pictures/Instructor 50 von Signetics.JPG?raw=true" width = "500" title = "The Instructor 50." alt = "A retro-computer consisting of a black case, two key pads with blue and red keys, a line of 8 DIP-switches and 8 LEDs, and a 7-segment display in red showcasing “HELLO”."/>
+<img src = "/Pictures/Instructor 50 von Signetics.JPG?raw=true" width = "500" title = "The Instructor 50 from Signetics, designed in 1978 for didactic purposes around the Signetics 2650 microprocessor." alt = "A retro-computer consisting of a black case, two key pads with blue and red keys, a line of 8 DIP-switches and 8 LEDs, and a 7-segment display in red showcasing “HELLO”."/>
 
-_Figure 1. The Instructor 50._
+_Figure 1. The Instructor 50 from Signetics, designed in 1978 for didactic purposes around the Signetics 2650 microprocessor._
 
 <img src = "/Pictures/Emulator.jpg?raw=true" width = "500" title = "The WinInstructor emulation in WinArcardia." alt = "A window in Windows emulating the Instructor 50, showing in huge red letters the opcodes 03 12 A5 in an 7-segment display in red, 8 red LED below, and a huge amount of smaller buttons and folders surrounding that."/>
 
