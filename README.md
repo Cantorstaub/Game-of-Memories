@@ -32,7 +32,7 @@ _Figure 5. WinArcadia made it possible to switch between two different modes for
 
 <img src = "/Pictures/Schichten-korrekt.jpg?raw=true" width = "1000" title = "The different strata of processes within the emulated Instructor 50." alt = "Two grey areas shaped like hourglasses contain different levels with graphics and text. The lowest level consists of an irregular jigsaw line. Above this, the left hourglass contains the digits 10100101, the right the digits 00010000. The left hourglass then contains A5, the right 10. At the highest level, the left hourglass shows SUBI,r1, the right one 10. On the left of the hourglasses, these levels are indexed from bottom to top with Spannung, Bits, Opcodes (hexadezimal), and Mnemonics."/>
 
-_Figure 6. The different strata of processes within the emulated Instructor 50, ranging from the level of measured voltage up to opcodes and even mnemonics for the human user. The strata are isomorphic to one another and can be read as representing the connection between the real and the symbolic within the machine._
+_Figure 6. The different strata of processes within the emulated Instructor 50, ranging from the level of measured voltage up to opcodes and even mnemonics for the human user. The strata are isomorphic to one another and can be read as representations of the relations between the real and the symbolic within the machine._
 
 ## Programmer’s Notes and Instructions
 
