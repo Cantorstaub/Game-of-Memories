@@ -12,15 +12,18 @@ _Figure 1. The Instructor 50._
 
 _Figure 2. The WinInstructor emulated in WinArcardia._
 
-<img src = "/Pictures/GRAFIK_GoM_Speicherfläche mit Okatgon_2.JPG?raw=true" width = "500" title = "The emulator provides us with a graphical representation of the memory bank of the emulated machine where the Game of Memories is playing, here showing an octagon." alt = "A 16 x 16 field of squares coloured in light green. Above the upper column an index is visible froom 0 to F. On the left side the rows are indexed from $0E0x: $ to $0EFx: $. Some squares contain little black circels, together forming an octagon."/>
+<img src = "/Pictures/GRAFIK_GoM_Speicherfläche mit Okatgon_2.JPG?raw=true" width = "500" title = "The emulator provided a graphical representation of the memory bank of the emulated machine where the Game of Memories is playing, here showing an octagon." alt = "A 16 x 16 field of squares coloured in light green. Above the upper column an index is visible froom 0 to F. On the left side the rows are indexed from $0E0x: $ to $0EFx: $. Some squares contain little black circels, together forming an octagon."/>
 
-_Figure 3. The emulator provides us with a graphical representation of the memory bank of the emulated machine where the Game of Memories is playing, here showing an octagon._
+_Figure 3. The emulator provided a graphical representation of the memory bank of the emulated machine where the Game of Memories is playing, here showing an octagon._
 
-In the emulator WinArcadia only small parts of the memory with the size 16 x 16 byte could be made visible at a time. Therefore, we were confined to a rather small playing field for the _Game of Memories_ of 16 x 16 cells. It was possible to create most of the common elements from John Horton Conway’s Game of Life like blinkers, beehives, octagons (see figure 3), or gliders (see figure 4). Still, due to the restricted size of the playing field, the cells within our Game of Memories died out or got caught up in repetitive patterns after .
+In the emulator WinArcadia only small parts of the memory with the size 16 x 16 byte could be made visible at a time. Therefore, we were confined to a rather small playing field for the _Game of Memories_ of 16 x 16 cells. It was possible to create most of the common elements from John Horton Conway’s Game of Life like blinkers, beehives, octagons (see figure 3), or gliders (see figure 4). Still, due to the restricted size of the playing field, the cells within our Game of Memories died out or got caught up in repetitive patterns after a couple of generations.
 
 <img src = "/Pictures/Gleiter.jpg?raw=true" width = "475" title = "Three iterations of a glider moving across the playing field." alt = ""/>
 
 _Figure 4. Three iterations of a glider moving across the playing field._
+
+The _Game of Memories_ was designed to study the inner workings of a retrocomputer with much less complex proccesses compared to modern computers. Using the WinArcadia emulator provided the possibility to take up on mediatheoretical thoughts and conclusions in a hands-on fashion by peeking into the emulated machine, in our case, into its memory. 
+Working with retrocomputers in such a manour provided insights into the elemtary functionalities of computers down to the single bit and an understanding of the connections between the different strata within the processes of computers and how _real_ states – to use the methodological trias of Friedrich A. Kittler – are related to symbolic signs in the machine, opening up avenues to rethink the mediatheoretical stance on programming and processing of digital machines as forms of writing.
 
 <img src = "/Pictures/Hex vs Zeichen.jpg?raw=true" width = "675" title = "WinArcadia made it possible to switch between two different modes for the visualisation of the content of the memory. This enabled us to use the hexadecimal values 17 and 15 to create the impression of empty and filled cells, as it is standard for most cellular automata." alt = ""/>
 
@@ -37,3 +40,5 @@ After more than a decade, I do not know if WinArcadia still works same way as we
 ## References
 
 [[1]](#_ftnref1) The WinArcadia Software is available under: [http://amigan.1emu.net/releases/#amiarcadia](http://amigan.1emu.net/releases/#amiarcadia) (last accessed: 2025-08-23).
+
+_Last edit_: 2025-08-25
