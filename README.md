@@ -4,7 +4,7 @@ _Game of Memories_ is a Game of Life cellular automaton written in assembler. Th
 
 ## Concept
 
-The _Instructor 50_ has no monitor or visual output as commonly in use today. Equipped only with eight red LEDs and a 7-segment display showing addresses and opcodes, the computer offers no direct way to actually see the _Game of Memories_ when run on the original hardware. The emulation of the _Instructor 50_ in the software WinArcadia[[2]](#_ftn2), on the other hand, provided a graphical representation of its memory, rendering the _Game of Memories_ visible.
+The _Instructor 50_ has no monitor or visual output as commonly in use today. Equipped only with eight red LEDs and a 7-segment display showing addresses and opcodes, the computer offers no direct way to actually see the _Game of Memories_ when run on the original hardware. The emulation of the _Instructor 50_ in the software WinArcadia[[2]](#_ftn2), on the other hand, provided a graphical representation of the computer’s memory, rendering the playing field of the cellular automaton visible.
 
 <img src = "/Pictures/Instructor 50 von Signetics.JPG?raw=true" width = "500" title = "The Instructor 50 from Signetics, designed in 1978 for didactic purposes around the Signetics 2650 microprocessor." alt = "A retro-computer consisting of a black case, two key pads with blue and red keys, a line of 8 DIP-switches and 8 LEDs, and a 7-segment display in red showcasing “HELLO”."/>
 
