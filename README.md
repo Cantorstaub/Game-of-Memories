@@ -44,7 +44,7 @@ When the program is loaded successfully in WinArcadia, the playing field is not 
 
 ## References
 
-[[1]](#_ftnref1) The _Instructor 50_ was part of the [Signallabor](https://www.musikundmedien.hu-berlin.de/de/medienwissenschaft/medientheorien/signallabor).
+[[1]](#_ftnref1) The _Instructor 50_ was part of the collection of the [Signallabor](https://www.musikundmedien.hu-berlin.de/de/medienwissenschaft/medientheorien/signallabor) run by Stefan Höltgen.
 
 [[2]](#_ftnref2) The WinArcadia Software is available under: [http://amigan.1emu.net/releases/#amiarcadia](http://amigan.1emu.net/releases/#amiarcadia) (last accessed: 2025-08-23).
 
