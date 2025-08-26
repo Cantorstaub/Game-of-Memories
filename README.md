@@ -1,10 +1,10 @@
 # Game-of-Memories
 
-_Game of Memories_ is a Game of Life cellular automaton inside the memory of an _Instructor 50_ computer. It was co-created with Stefan Höltgen in the [Signallabor](https://www.musikundmedien.hu-berlin.de/de/medienwissenschaft/medientheorien/signallabor) at the Humboldt University of Berlin in 2014.
+_Game of Memories_ is a Game of Life cellular automaton inside the memory of an _Instructor 50_ computer. It was co-created with Stefan Höltgen at the Humboldt University of Berlin in 2014.[[1]](#_ftn1)
 
 ## Concept
 
-The _Instructor 50_ has no monitor or visual output as we are used to. Equipped only with eight red LEDs and a 7-segment display showing addresses and opcodes, there is no direct way to actually see the _Game of Memories_ when run on the original hardware. The emulation of this computer in WinArcadia[[1]](#_ftn1), on the other hand, provided a graphical representation of the memory of the emulated machine, rendering the _Game of Memories_ visible.
+The _Instructor 50_ has no monitor or visual output as we are used to. Equipped only with eight red LEDs and a 7-segment display showing addresses and opcodes, there is no direct way to actually see the _Game of Memories_ when run on the original hardware. The emulation of this computer in WinArcadia[[2]](#_ftn2), on the other hand, provided a graphical representation of the memory of the emulated machine, rendering the _Game of Memories_ visible.
 
 <img src = "/Pictures/Instructor 50 von Signetics.JPG?raw=true" width = "500" title = "The Instructor 50 from Signetics, designed in 1978 for didactic purposes around the Signetics 2650 microprocessor." alt = "A retro-computer consisting of a black case, two key pads with blue and red keys, a line of 8 DIP-switches and 8 LEDs, and a 7-segment display in red showcasing “HELLO”."/>
 
@@ -44,6 +44,8 @@ When the program is loaded successfully in WinArcadia, the playing field is not 
 
 ## References
 
-[[1]](#_ftnref1) The WinArcadia Software is available under: [http://amigan.1emu.net/releases/#amiarcadia](http://amigan.1emu.net/releases/#amiarcadia) (last accessed: 2025-08-23).
+[[1]](#_ftnref1) The _Instructor 50_ was part of the [Signallabor](https://www.musikundmedien.hu-berlin.de/de/medienwissenschaft/medientheorien/signallabor).
 
-_Last edit_: 2025-08-25
+[[2]](#_ftnref2) The WinArcadia Software is available under: [http://amigan.1emu.net/releases/#amiarcadia](http://amigan.1emu.net/releases/#amiarcadia) (last accessed: 2025-08-23).
+
+_last edit_: 2025-08-26
