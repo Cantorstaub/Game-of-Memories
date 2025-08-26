@@ -46,7 +46,7 @@ When the program is loaded successfully in WinArcadia, the playing field is not 
 
 [[1]](#_ftnref1) The _Instructor 50_ was part of the collection of the [Signallabor](https://www.musikundmedien.hu-berlin.de/de/medienwissenschaft/medientheorien/signallabor) run by Stefan Höltgen.
 
-[[2]](#_ftnref2) The WinArcadia Software is available under: [http://amigan.1emu.net/releases/#amiarcadia](http://amigan.1emu.net/releases/#amiarcadia) (last accessed: 2025-08-23).
+[[2]](#_ftnref2) The WinArcadia Software by James Jacobs is available under: [http://amigan.1emu.net/releases/#amiarcadia](http://amigan.1emu.net/releases/#amiarcadia) (last accessed: 2025-08-23).
 
 [[3]](#_ftnref3) For an example of mediatheoretical thoughts on this topic, see: Nückel, Thomas/Borbach, Christoph (2016): Game of Memories: Zeitschichten in einem zellulären Automaten. In: Höltgen, Stefan/van Treeck, Jan Claas (eds.): _Time to Play: Zeit und Computerspiel_. Game Studies. Glückstadt: Werner Hülsbusch, pp. 70–94. While I am still very fond of Christoph Borbach’s contributions, the conclusions drawn from the _Game of Memories_ by me remained rather underdeveloped in this text.
 
