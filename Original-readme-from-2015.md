@@ -9,10 +9,10 @@ Thomas Nyckel
 
 Dieses Paket enthält die folgenden Dateien:
 
-Game of Memories.COS
-Game of Memories.asm
-Orignal-readme-from-2015.md
-_and now, added in 2025, also_: README.md
+- Game of Memories.COS
+- Game of Memories.asm
+- Original-readme-from-2015.md
+- _and now, added in 2025, also_: README.md
 
 ### 2. BESCHREIBUNG
 
@@ -39,4 +39,4 @@ Zur Handhabung von Winarcadia im Allgemeinen s. der link oben.
 
 Wenn das Programm in Winarcadia geladen ist, ist das Spielfeld noch nicht zu sehen. Unter der Registerkarte ‚Werkzeuge‘ muss erst der ‚Speichereditor’ aufgerufen werden. Das Spielfeld befindet sich in Speicherbank 0E00-0EFF. Diese muss im Scrolldown-Menü oben links ausgewählt werden.
 
-_Last edit_: 2025-08-23
+_last edit_: 2025-08-26
