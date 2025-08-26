@@ -1,6 +1,6 @@
 # Game-of-Memories
 
-_Game of Memories_ is a Game of Life cellular automaton inside the memory of an _Instructor 50_ computer. It was co-created with Stefan Höltgen at the Humboldt University of Berlin in 2014.[[1]](#_ftn1)
+_Game of Memories_ is a Game of Life cellular automaton written in assembler. The game plays inside the memory of an _Instructor 50_ computer. It was co-created with Stefan Höltgen at the Humboldt University of Berlin in 2014.[[1]](#_ftn1)
 
 ## Concept
 
