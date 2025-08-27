@@ -48,7 +48,7 @@ When the program is loaded successfully in WinArcadia, the playing field is not 
 
 [[2]](#_ftnref2) The WinArcadia Software by James Jacobs is available under: [http://amigan.1emu.net/releases/#amiarcadia](http://amigan.1emu.net/releases/#amiarcadia) (last accessed: 2025-08-23).
 
-[[3]](#_ftnref3) For an example of mediatheoretical thoughts on this topic, see: Nückel, Thomas/Borbach, Christoph (2016): Game of Memories: Zeitschichten in einem zellulären Automaten. In: Höltgen, Stefan/van Treeck, Jan Claas (eds.): _Time to Play: Zeit und Computerspiel_. Game Studies. Glückstadt: Werner Hülsbusch, pp. 70–94. While I am still very fond of Christoph Borbach’s contributions, the conclusions drawn from the _Game of Memories_ by me remained rather underdeveloped in this text.
+[[3]](#_ftnref3) For an example of mediatheoretical thoughts on this topic, see: Nückel, Thomas/Borbach, Christoph (2016): Game of Memories: Zeitschichten in einem zellulären Automaten. In: Höltgen, Stefan/van Treeck, Jan Claas (eds.): _Time to Play: Zeit und Computerspiel_. Game Studies. Glückstadt: Werner Hülsbusch, pp. 70–94. While I am still very fond of Christoph Borbach’s contributions, the conclusions drawn from the _Game of Memories_ by me are in need of further specification.
 
 [[4]](#_ftnref4) For the methodological trias of the real, the symbolic, and the imaginary see Kittler, Friedrich A. (1993): Die Welt des Symbolischen - eine Welt der Maschine. In _Draculas Vermächtnis: Technische Schriften_. First edition. Leipzig: Reclam, pp. 58–80, especially pp. 68–71.
 
